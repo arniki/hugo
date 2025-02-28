@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://arniki.github.io/hugo/</loc>
     <lastmod>2025-02-04T19:50:48+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/hello/</loc>
+    <loc>https://arniki.github.io/hugo/posts/hello/</loc>
     <lastmod>2025-02-04T19:50:48+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://arniki.github.io/hugo/posts/</loc>
     <lastmod>2025-02-04T19:50:48+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://arniki.github.io/hugo/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://arniki.github.io/hugo/tags/</loc>
   </url>
 </urlset>
