@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Feb 2025 19:50:48 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>//localhost:1313/posts/hello/</link>
+      <pubDate>Tue, 04 Feb 2025 19:50:48 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
+&lt;h2 id=&#34;wow-what-is-this&#34;&gt;WOW what is this&lt;/h2&gt;
+&lt;h3 id=&#34;oh-yeah&#34;&gt;oh yeah&lt;/h3&gt;
+&lt;h4 id=&#34;oh-yeahyeah&#34;&gt;oh yeahyeah&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt; move you filthy &lt;em&gt;italian&lt;/em&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
+&lt;h2 id=&#34;wow-what-is-this&#34;&gt;WOW what is this&lt;/h2&gt;
+&lt;h3 id=&#34;oh-yeah&#34;&gt;oh yeah&lt;/h3&gt;
+&lt;h4 id=&#34;oh-yeahyeah&#34;&gt;oh yeahyeah&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt; move you filthy &lt;em&gt;italian&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
